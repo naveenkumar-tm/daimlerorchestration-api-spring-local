@@ -1,0 +1,10 @@
+org/orchestration/constant/Main.class
+org/orchestration/genericDao/OrchestrationGenericDao.class
+org/orchestration/hibernate/transform/OrchestrationAliasToEntityLinkedHashMapResultTransformer.class
+org/orchestration/services/OrchestrationGenericProcess.class
+org/orchestration/response/model/OrchestrationMessage.class
+org/orchestration/genericService/OrchestrationGenericService.class
+org/orchestration/http/client/OrchestrationSoapApiCalling.class
+org/orchestration/services/GenericMethodService.class
+org/orchestration/http/client/OrchestrationHttpURLCalling.class
+org/orchestration/constant/OrchestrationProcessParameter.class
