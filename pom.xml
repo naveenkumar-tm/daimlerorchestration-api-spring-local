@@ -16,7 +16,7 @@
 		<spring.security.version>3.2.5.RELEASE</spring.security.version>
 
 		Hibernate / JPA
-		<hibernate.version>4.2.1.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 	</properties>
 
 	<dependencies>
